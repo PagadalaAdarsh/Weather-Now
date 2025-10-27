@@ -24,7 +24,7 @@ Backgrounds: Unsplash API
 
 Styling: CSS3 (Responsive + Animated transitions)
 
-Hosting: StackBlitz (Live deployment)
+Hosting: Vercel (Live deployment)
 
 ⚙️ How It Works
 
@@ -54,8 +54,7 @@ Then open the local link shown in your terminal (usually http://localhost:5173).
 
 🌎 Live Demo
 
-🔗 Weather Now - https://vitejsviteyovhtxq2-25oe--5173--1db57326.local-credentialless.webcontainer.io/
-
+🔗 Weather Now - https://weathernow-app-seven.vercel.app/
 📜 APIs Used
 
 Weather Data: Open-Meteo API
