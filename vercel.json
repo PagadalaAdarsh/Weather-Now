@@ -3,7 +3,6 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "installCommand": "npm install",
-  "functions": {},
   "build": {
     "env": {
       "NODE_VERSION": "18"
