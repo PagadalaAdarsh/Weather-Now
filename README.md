@@ -49,12 +49,12 @@ npm install
 # 4. Start the app
 npm run dev
 
-
 Then open the local link shown in your terminal (usually http://localhost:5173).
 
 🌎 Live Demo
 
 🔗 Weather Now - https://weathernow-app-seven.vercel.app/
+
 📜 APIs Used
 
 Weather Data: Open-Meteo API
